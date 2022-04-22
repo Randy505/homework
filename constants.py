@@ -22,7 +22,7 @@ from pygame.locals import *
 
 # Configuration of building shape block
 # Width of the shape block
-BWIDTH     = 10
+BWIDTH     = 30
 # Height of the shape block
 BHEIGHT    = 30
 # Width of the line around the block
